@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="490f996c-fd60-452a-8813-a2d37ffbe720" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/buttons/MainPageBtnSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/buttons/ModelChoosedBtn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/data/DataSetHeaders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/data/Diagnosis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/data/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/data/MemberView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/data/ModelBluePrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/data/ModelListing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/data/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/data/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/data/Risk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/SecureUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/machine_learning/BottomPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/machine_learning/ConfigurationPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/machine_learning/DataSetDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/machine_learning/ResultModelPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/machine_learning/ResultPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/machine_learning/SelectionPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/operational_mode/BottomPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/operational_mode/DataSetDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/operational_mode/ExecutePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/operational_mode/OperationalModePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/operational_mode/SelectionPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/operational_mode/WorkflowPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/risk_mode/BottomPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/risk_mode/DataSetDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/risk_mode/RiskPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/workers/SendDataSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/workers/SendDataSetOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/workers/SendDataSetRisk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/buttons/MainPageBtn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/buttons/MainPageBtn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/buttons/MenuButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/buttons/MenuButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/data/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/data/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/BottomPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/Credentials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/DataSetDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/LayoutPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/LayoutPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/MachineLearningPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/machine_learning/MachineLearningPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/ModelView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/operational_mode/ModelView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/OpSelectionPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/OperationalModePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/PreferencesPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/ResultPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/FComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/SelectionPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/Password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/WorkflowPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/insilicokdd/gui/Authenticate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insilicokdd/workers/ProcessExecute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/gui.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/insilicokdd/buttons/MainPageBtn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/insilicokdd/buttons/MainPageBtn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/insilicokdd/gui/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/insilicokdd/gui/GUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/insilicokdd/gui/LayoutPlot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/insilicokdd/gui/LayoutPlot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/insilicokdd/gui/MainMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/insilicokdd/main/ProgramMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gui-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/gui-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Q07TOhAIDEH1ZyDzFy0UdsQalF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.insilicokdd.operational_mode" />
+      <recent name="com.insilicokdd.utility" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GUI">
+    <configuration name="GUI" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.insilicokdd.gui.GUI" />
+      <module name="gui" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.insilicokdd.gui.GraphPanel" />
+      <module name="gui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.insilicokdd.operational_mode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.insilicokdd.gui.Main" />
+      <module name="gui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.insilicokdd.operational_mode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RulerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.insilicokdd.RulerExample" />
+      <module name="gui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.insilicokdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GUI" />
+      <item itemvalue="Application.GraphPanel" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.RulerExample" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RulerExample" />
+        <item itemvalue="Application.GraphPanel" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="490f996c-fd60-452a-8813-a2d37ffbe720" name="Default Changelist" comment="" />
+      <created>1566895666389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566895666389</updated>
+      <workItem from="1566895669199" duration="23726000" />
+      <workItem from="1566976435159" duration="25225000" />
+      <workItem from="1567056787144" duration="8525000" />
+      <workItem from="1567149002926" duration="13009000" />
+      <workItem from="1567608412091" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/insilicokdd/machine_learning/SelectionPanel.java</url>
+          <line>26</line>
+          <properties class="com.insilicokdd.machine_learning.SelectionPanel" method="buildUrl">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/insilicokdd/operational_mode/WorkflowPanel.java</url>
+          <line>31</line>
+          <properties class="com.insilicokdd.operational_mode.WorkflowPanel" method="paintChildren">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="445" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/insilicokdd/operational_mode/WorkflowPanel.java</url>
+          <line>36</line>
+          <properties class="com.insilicokdd.operational_mode.WorkflowPanel" method="getSelection">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="446" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
